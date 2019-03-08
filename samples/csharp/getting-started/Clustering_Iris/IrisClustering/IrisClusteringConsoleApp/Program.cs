@@ -96,7 +96,7 @@ namespace Clustering_Iris
             }
 
             Console.WriteLine("=============== End of process, hit any key to finish ===============");
-            Console.ReadKey();           
+            Console.WriteLine();
         }
 
         public static string GetAbsolutePath(string relativePath)
